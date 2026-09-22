@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================
+     Sh. Tanzir — sitemap.xml
+     EDIT: নিচের সব https://www.your-domain.example/ কে তোমার
+     আসল canonical URL দিয়ে বদলাও (slash সহ, হুবহু index.html এর
+     <link rel="canonical"> এর সাথে মিলতে হবে)।
+============================================================= -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- মূল পেজ — single-page portfolio, তাই এটাই একমাত্র সত্যি URL -->
+  <url>
+    <loc>https://shtanzir.vercel.com/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+</urlset>
