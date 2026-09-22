@@ -9,7 +9,7 @@
 
   <!-- মূল পেজ — single-page portfolio, তাই এটাই একমাত্র সত্যি URL -->
   <url>
-    <loc>https://shtanzir.vercel.com/</loc>
+    <loc>https://shtanzir.vercel.app/</loc>
     <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
