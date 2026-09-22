@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://shtanzir.vercel.com/sitemap.xml
+Sitemap: https://shtanzir.vercel.app/sitemap.xml
